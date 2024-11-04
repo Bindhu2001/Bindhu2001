@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript<br>💬 Ask me about PHP
+🌱 I’m currently learning Yii2 framework<br>💬 Ask me about PHP
 
 
 # 💻 Tech Stack:
