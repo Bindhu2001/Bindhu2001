@@ -40,8 +40,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bindhu2001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=bindhu2001&theme=dark&hide_border=false)
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindhu2001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin-bottom: 20px;"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bindhu2001&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
 
 ### ✍️ Random Dev Quote
