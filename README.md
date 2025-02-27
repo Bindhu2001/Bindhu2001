@@ -1,5 +1,7 @@
-# 💫 About Me:
-🌱 I’m currently learning Yii2 framework<br>💬 Ask me about PHP
+🚀 Passionate PHP Developer | Yii2 & Laravel Enthusiast
+🌱 Currently diving deep into Yii2 & Laravel
+🔍 Actively seeking new job opportunities in backend development
+💬 Ask me about PHP, Laravel, Yii2, and backend architecture
 
 
 # 💻 Tech Stack:
@@ -8,6 +10,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Bindhu2001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bindhu2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bindhu2001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+📢 Let's Connect:
+
+🔗 LinkedIn : https://www.linkedin.com/in/bindu-vijayan/
+📩 Email: binduvijyan513@gmail.com💼 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
