@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bindu v</h1>
 <h3 align="center">🚀 Passionate PHP Developer | Yii2 & Laravel Enthusiast 🌱</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **PHP, Laravel, Yii2, and backend architecture**
 
